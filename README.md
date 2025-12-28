@@ -1,16 +1,70 @@
-## Hi there 👋
+# Hi, I'm Rifan 👋
 
-<!--
-**RifanJr/RifanJR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Informatics Engineering student  
+🤖 Interested in Robotics, Embedded Systems, and AI  
+🎯 Currently focusing on **AI projects**, especially applied machine learning and real-world deployment  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+
+🧠 Artificial Intelligence & Machine Learning  
+👁️ Computer Vision & Deep Learning  
+⚡ On-device & Edge AI for resource-constrained systems  
+🎮 AI-based image upscaling & frame generation  
+🤖 AI integration for robotics and embedded systems  
+
+I’m especially interested in how AI can be applied in real-world systems, with attention to **efficiency, optimization, and deployment**.
+
+---
+
+## Currently Learning
+
+📘 Machine Learning fundamentals  
+🧠 Deep Learning basics (CNNs, neural networks, training & evaluation)  
+👁️ Computer Vision with Deep Learning  
+⚙️ Model optimization and deployment for real-time applications  
+
+---
+
+## What I Do
+
+- 🧠 Currently learning **AI/ML fundamentals** and building understanding through small experiments
+- 👁️ Exploring **Computer Vision & Deep Learning** concepts (CNN basics, image processing, simple models)
+- ⚡ Learning about **model deployment & optimization** for real-time/edge use cases
+- 🎮 Studying **AI upscaling & frame generation** as a personal research interest
+- 🤖 (Background) Interested in applying AI to **robotics & embedded systems**
+
+---
+
+## Tech Stack
+
+### Programming Languages
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+---
+
+### Frameworks & Tools
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![Fusion 360](https://img.shields.io/badge/Fusion%20360-FF6F00?style=flat&logo=autodesk&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+
+---
+
+## GitHub Stats
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RifanJr&layout=compact&theme=tokyonight)
+
+---
+
+## Links
+- 💻 GitHub: https://github.com/RifanJr
+- 🔗 LinkedIn: https://www.linkedin.com/in/rifan-januar-rifai-86101528a/
+
+---
+
+⚡ *Fun fact:*  
+I enjoy learning by building small things step by step — and improving them over time 🔥
