@@ -1,6 +1,6 @@
 # Hi, I'm Rifan 👋
 
-🎓 Informatics Engineering student  
+🎓 Computer Engineering student  
 🤖 Interested in Robotics, Embedded Systems, and AI  
 🎯 Currently focusing on **AI projects**, especially applied machine learning and real-world deployment  
 
